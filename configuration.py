@@ -1,0 +1,15 @@
+FULL_PATH='./D/'
+MODEL_TYPE = "v3"
+MAX_TRACE_LENGTH = 33
+FEATURE_NUMBER = 86
+BATCH_SIZE = 1
+GAMMA = 0.3
+H_SIZE = 128
+USE_HIDDEN_STATE = False
+model_train_continue = True
+SCALE = True
+FEATURE_TYPE = 5
+ITERATE_NUM = 90
+learning_rate = 1e-5
+SPORT = "BWF"
+save_mother_dir ='./Local-Scratch' 
