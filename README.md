@@ -1,10 +1,10 @@
 # Deep reinforcement learning in a racket sport for player evaluation with technical and tactical contexts 
 
 ## Author 
-Ding Ning
+Ning Ding
 
 ## Reference:
-Ding Ning, Kazuya Takeda, Keisuke Fujii, Deep reinforcement learning in a racket sport for player evaluation with technical and tactical contexts, IEEE Access, accepted.
+Ning Ding, Kazuya Takeda, Keisuke Fujii, Deep reinforcement learning in a racket sport for player evaluation with technical and tactical contexts, IEEE Access, accepted.
 
 ## Requirements:
 
