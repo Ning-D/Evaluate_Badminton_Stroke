@@ -37,7 +37,7 @@ Ning Ding, Kazuya Takeda, Keisuke Fujii, Deep reinforcement learning in a racket
 
 ## Evaluation:
 1. Run ```python Evaluate.py```  
-2. To obtain the result of action value in a badminton rally. Run ```python plot.py --iter_number xx``` You can also use the pretrained model in the pretrained file. Run ```python plot.py --iter_number 90```
+2. To obtain the result of action value in a badminton rally. Run ```python plot.py --iter_number xx```
  
 ## Acknowledgements:
 For this project, we relied on research codes from:
